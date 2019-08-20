@@ -1,7 +1,7 @@
 Dear Reader,
 
 Welcome to my machine learning portfolio: a collection of selected unpublished projects from machine-learning-related 
-courses I have taken during my PhD at Rensselaer Polytechnic Institute. 
+courses I took during my PhD at Rensselaer Polytechnic Institute. 
 
 The idea is to succinctly demonstrate to job recruiters that I can code in R, MATLAB, and Python (Tensorflow); 
 and to show that I have sufficient understanding of the fundamental machine learning algorithms so as to be able 
